@@ -60,4 +60,10 @@ To leverage my skills in **web development, mobile applications, and system admi
 </div>
 
 ---
+## 🚀 Projects
+- 🌐 [Portfolio Website](#) – Built with HTML, CSS, and JavaScript  
+- 📱 [Flutter Mobile App](#) – Cross-platform demo app  
+- 🐍 [Python Automation](#) – Scripts for data and system tasks  
+- 🛒 [Shopify Store](#) – Custom store with advanced features  
+- 📰 [WordPress Website](#) – Fully customized CMS solution  
 
