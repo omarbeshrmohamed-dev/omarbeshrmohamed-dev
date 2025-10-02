@@ -61,7 +61,7 @@ To leverage my skills in **web development, mobile applications, and system admi
 
 ---
 ## 🚀 Projects
-- 🌐 [fullbuild Website]([#](https://www.it-resell.com)) – Built with HTML, CSS, and JavaScript  
+- 🌐 [fullbuild Website](https://www.it-resell.com) – Built with HTML, CSS, and JavaScript  
 - 📱 [Flutter Mobile App](#) – Cross-platform demo app build with dart
 - 📱 [js Website demo ](#) – Built with HTML, CSS, and JavaScript  
 - 🛒 [Shopify Store]([#](http://greengloweg.com/)) – Custom store with advanced features  
