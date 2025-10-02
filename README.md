@@ -1,60 +1,71 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Omar 👋
+<a href="https://www.linkedin.com/in/omar-beshr-0909b7243"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+I am a tech enthusiast with a background in **web development, system administration, and networking**, passionate about creating digital solutions and continuous learning.  
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+---
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+## 🎯 Objective
+To leverage my skills in **web development, mobile applications, and system administration** to contribute to innovative projects and grow in a challenging IT/software role.  
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+---
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## 💻 Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                  | Associated Project |
+|-------------------------|--------------------|
+| HTML, CSS, JavaScript   | <a href="#">Portfolio Website</a> |
+| Flutter (Mobile Apps)   | <a href="#">Flutter App Demo</a> |
+| Python (Scripting)      | <a href="#">Python Automation Scripts</a> |
+| WordPress Development   | <a href="#">Custom WP Site</a> |
+| Shopify E-commerce      | <a href="#">Shopify Store Project</a> |
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+---
 
-### Network
+## 🛠 Tools
+
+### Web & Mobile
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Flutter-02569B?&style=for-the-badge&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-### Endpoint
+### CMS & E-commerce
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-WordPress-21759B?&style=for-the-badge&logo=wordpress&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Shopify-96BF48?&style=for-the-badge&logo=shopify&logoColor=white" />
 </div>
 
-### SIEM
+### Systems & Networking
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Red_Hat-EE0000?&style=for-the-badge&logo=redhat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+---
+
+## 📜 Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CCNA-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Red_Hat_System_Admin_I-EE0000?&style=for-the-badge&logo=redhat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Red_Hat_System_Admin_II-EE0000?&style=for-the-badge&logo=redhat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Red_Hat_System_Admin_III-EE0000?&style=for-the-badge&logo=redhat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Udacity_Web_Development-02B3E4?&style=for-the-badge&logo=udacity&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+---
+
+## 🚀 Projects
+- 🌐 [Portfolio Website](#) – Built with HTML, CSS, and JavaScript  
+- 📱 [Flutter Mobile App](#) – Cross-platform demo app  
+- 🐍 [Python Automation](#) – Scripts for data and system tasks  
+- 🛒 [Shopify Store](#) – Custom store with advanced features  
+- 📰 [WordPress Website](#) – Fully customized CMS solution  
+
+---
