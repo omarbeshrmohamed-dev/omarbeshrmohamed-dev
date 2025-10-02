@@ -12,13 +12,13 @@ To leverage my skills in **web development, mobile applications, and system admi
 
 ## 💻 Skills
 
-| Skill                  | Associated Project |
-|-------------------------|--------------------|
-| HTML, CSS, JavaScript   | <a href="#">Portfolio Website</a> |
-| Flutter (Mobile Apps)   | <a href="#">Flutter App Demo</a> |
-| Python (Scripting)      | <a href="#">Python Automation Scripts</a> |
-| WordPress Development   | <a href="#">Custom WP Site</a> |
-| Shopify E-commerce      | <a href="#">Shopify Store Project</a> |
+| Skill                  | 
+|-------------------------|
+| HTML, CSS, JavaScript   |  
+| Flutter (Mobile Apps)   | 
+| Python (Scripting)      | 
+| WordPress Development   | 
+| Shopify E-commerce      | 
 
 ---
 
@@ -61,11 +61,3 @@ To leverage my skills in **web development, mobile applications, and system admi
 
 ---
 
-## 🚀 Projects
-- 🌐 [Portfolio Website](#) – Built with HTML, CSS, and JavaScript  
-- 📱 [Flutter Mobile App](#) – Cross-platform demo app  
-- 🐍 [Python Automation](#) – Scripts for data and system tasks  
-- 🛒 [Shopify Store](#) – Custom store with advanced features  
-- 📰 [WordPress Website](#) – Fully customized CMS solution  
-
----
