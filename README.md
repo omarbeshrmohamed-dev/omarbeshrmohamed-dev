@@ -67,3 +67,5 @@ To leverage my skills in **web development, mobile applications, and system admi
 - 🛒 [Shopify Store](http://greengloweg.com/) – Custom store with advanced features  
 - 📰 [my first ever WordPress Website](https://harmonyagency.net/) – Fully customized CMS solution  
 - 📱 [my last company insta](https://www.instagram.com/greengloweg/) – designs and soacialmedia work
+
+-📱 [screen and photos form taken dawn work](https://www.instagram.com/greengloweg/) – designs and soacialmedia work
