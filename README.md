@@ -62,8 +62,8 @@ To leverage my skills in **web development, mobile applications, and system admi
 ---
 ## 🚀 Projects
 - 🌐 [fullbuild Website](https://www.it-resell.com) – Built with HTML, CSS, and JavaScript  
-- 📱 [Flutter Mobile App](#) – Cross-platform demo app build with dart
-- 📱 [js Website demo ](#) – Built with HTML, CSS, and JavaScript  
+- 📱 [Flutter Mobile App](https://drive.google.com/drive/folders/1uaO5HhvgzVdyXmJOhmaVEqQBXgmcVbCm) – Cross-platform demo app build with dart
+- 📱 [js Website demo ](https://drive.google.com/drive/folders/1ApWd5fKIYFQCw2nyI-9NsDkriPwplABv) – Built with HTML, CSS, and JavaScript  
 - 🛒 [Shopify Store](http://greengloweg.com/) – Custom store with advanced features  
 - 📰 [my first ever WordPress Website](https://harmonyagency.net/) – Fully customized CMS solution  
 - 📱 [my last company insta](https://www.instagram.com/greengloweg/) – designs and soacialmedia work
